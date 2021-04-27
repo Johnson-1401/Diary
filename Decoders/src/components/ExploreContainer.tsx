@@ -7,6 +7,7 @@ const ExploreContainer: React.FC<ContainerProps> = () => {
     <div className="container">
       <h1>Wecome to our Diary</h1>
       <p>“If you obey all the rules, you miss all the fun”</p>
+      
     </div>
   );
 };
